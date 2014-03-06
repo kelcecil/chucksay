@@ -29,6 +29,22 @@ kels-mbp% chucksay
 Chuck Norris does not sleep. He waits.
 ```
 
+PIPE IT TO COWSAY!!!
+
+```
+kels-mbp% chucksay | cowsay
+ _________________________________________
+/ There is no theory of evolution. Just a \
+| list of creatures Chuck Norris has      |
+\ allowed to live.                        /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
 Improve it!
 -----------
 
