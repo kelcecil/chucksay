@@ -1,7 +1,7 @@
-require 'chucksay'
+require 'spec_helper'
 
-describe ChuckSay do
+describe Chuck do
   it 'should be a string' do
-    ChuckSay.say.class.should === 'String'
+    Chuck.say.class.should === 'String'
   end
 end
