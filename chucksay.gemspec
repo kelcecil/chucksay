@@ -10,4 +10,5 @@ Gem::Specification.new do |s|
   s.executables << 'chucksay'
   s.homepage = 'https://github.com/kelcecil/chucksay'
   s.license = 'GPL v2'
+  s.add_development_dependency "rspec", [">= 2.14.1"]
 end
