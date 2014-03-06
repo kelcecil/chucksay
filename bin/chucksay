@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'chuck'
+puts Chuck.say
