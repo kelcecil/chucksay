@@ -9,7 +9,7 @@ Use it!
 Stick this in your gem file!
 
 ```
-gem 'chucksay', :git => 'git://github.com/kelcecil/chucksay.git'
+gem 'chucksay'
 ```
 
 Use it in your app...
