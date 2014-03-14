@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name  = 'chucksay'
-  s.version = '0.0.2'
+  s.version = '0.0.3'
   s.date  = '2014-04-05'
   s.summary = 'A gem to randomly provide Chuck Norris jokes.'
   s.description = 'Ever needed a Chuck Norris joke to lighten up that dashboard?'
